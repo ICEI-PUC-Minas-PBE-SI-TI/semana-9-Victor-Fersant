@@ -4,7 +4,7 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 
 ## Informações Gerais
 
-- Nome:
+- Nome: Victor Fernandes dos Santos
 - Matrícula:
 
 ## Prints do trabalho
