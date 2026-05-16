@@ -299,7 +299,7 @@ function showProductDetails(produto) {
         alt="${produto.nome}"
         class="details-image">
 
-    `;
+    `; 
 
 }
 
