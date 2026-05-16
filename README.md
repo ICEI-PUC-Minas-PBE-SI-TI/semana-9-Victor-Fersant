@@ -5,12 +5,19 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 ## Informações Gerais
 
 - Nome: Victor Fernandes dos Santos
-- Matrícula:
+- Matrícula: 928768
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+## Tela de cards de produtos
+[produtos](public/print-cards.JPG)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+---
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
+## Tela de detalhe do produto
+[detalhe](public/print-detalhes.JPG)
+
+---
+
+## Tela de console
+[console](public/print-console.JPG)

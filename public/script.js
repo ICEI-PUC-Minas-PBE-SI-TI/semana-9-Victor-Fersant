@@ -369,3 +369,30 @@ renderCategories();
 renderProducts(data.produtos);
 
 
+// CONSOLE
+
+const cards =
+  document.querySelectorAll(".card");
+
+cards.forEach(card => {
+
+  console.log("Elemento completo:");
+  console.log(card);
+
+  console.log("Data-id:");
+  console.log(card.getAttribute("data-id"));
+
+  console.log("Classes:");
+  console.log(card.classList);
+
+  console.log("Texto interno:");
+  console.log(card.textContent);
+
+  console.log("HTML interno:");
+  console.log(card.innerHTML);
+
+  console.log("-------------");
+
+});
+
+
