@@ -10,14 +10,14 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 ## Prints do trabalho
 
 ## Tela de cards de produtos
-[produtos](public/print-cards.JPG)
+![produtos](public/print-cards.JPG)
 
 ---
 
 ## Tela de detalhe do produto
-[detalhe](public/print-detalhes.JPG)
+![detalhe](public/print-detalhes.JPG)
 
 ---
 
 ## Tela de console
-[console](public/print-console.JPG)
+![console](public/print-console.JPG)
